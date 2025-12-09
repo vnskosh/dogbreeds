@@ -1,0 +1,8 @@
+{
+  "model_type": "<class 'sklearn.ensemble._forest.RandomForestClassifier'>",
+  "n_estimators": 200,
+  "n_features_in_": 96,
+  "n_classes": 5,
+  "total_images_in_archive": 477,
+  "unique_breeds_detected": 5
+}
